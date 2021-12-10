@@ -1,15 +1,7 @@
 
+---
 layout: slide
-
-
-
-cd
-esc
-
-
-
-adsfasdf
-
-adsfasdf
-git commit
-
+title: "Welcome to our second slide!"
+---
+Your text
+Use the left arrow to go back!
